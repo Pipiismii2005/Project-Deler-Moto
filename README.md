@@ -59,9 +59,4 @@ Aplikasi web berbasis Laravel untuk mengelola operasional dealer motor, mulai da
 - `motorcycles` → `transactions` (One-to-Many)
 - `motorcycles` → `motorcycle_images` (One-to-Many)
 
-## 🛠️ Cara Menjalankan
 
-1. Clone repository:
-   ```bash
-   git clone https://github.com/Pipiismii2005/Project-Deler-Moto.git
-   cd Project-Deler-Moto
