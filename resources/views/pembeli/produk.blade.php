@@ -17,10 +17,10 @@
                             @csrf
                             <button type="submit" class="btn btn-success btn-sm">Beli</button>
                         </form>
-    <form action="{{ route('keranjang.tambah', $item->id) }}" method="POST">
-    @csrf
-    <button type="submit" class="btn btn-primary">Tambah ke Keranjang</button>
-</form>
+                        <form action="{{ route('keranjang.tambah', $item->id) }}" method="POST">
+                        @csrf
+                        <button type="submit" class="btn btn-primary">Tambah ke Keranjang</button>
+                    </form>
 
                     </div>
                 </div>

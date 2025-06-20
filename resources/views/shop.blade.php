@@ -13,7 +13,7 @@
                      <div class="carousel-item active">
                         <div class="row">
                            <div class="col-md-4">
-                              <div class="blog_img"><img src="honda scoopy 110.png"></div>
+                              <div class="blog_img"><img src="honda2.png"></div>
                               <h6 class="number_text">01</h6>
                               <div class="callnow_btn">
                                  
@@ -21,7 +21,7 @@
                               </div>
                            </div>
                            <div class="col-md-4">
-                              <div class="blog_img"><img src="storage/images/Sepeda Statis Magnetik.jpeg"></div>
+                              <div class="blog_img"><img src="honda1.jpg"></div>
                               <h6 class="number_text">02</h6>
                               <div class="callnow_btn">
                                  

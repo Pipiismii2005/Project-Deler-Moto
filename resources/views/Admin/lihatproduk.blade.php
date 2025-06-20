@@ -34,7 +34,7 @@
                 <td>{{ $prd->name }}</td>
                 <td>{{ $prd->Category->name }}</td>
                 <td>
-                    <img src="{{ 'storage/'. $prd->gambar }}" alt="Gambar Produk" width="150">
+                    <img src="{{ 'honda2.png'. $prd->gambar }}" alt="Gambar Produk" width="150">
                 </td>
                 <td>{{ $prd->price }}</td>
                 <td>{{ $prd->description }}</td>
