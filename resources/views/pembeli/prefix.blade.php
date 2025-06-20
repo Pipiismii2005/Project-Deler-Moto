@@ -6,8 +6,8 @@
             <div class="container">
                <div class="row">
                   <div class="col-md-6">
-                     <h1 class="banner_taital">Selamat datang di toko SportMart</h1>
-                     <p class="banner_text">It is a long established fact that a reader will be distracted by the readable c</p>
+                     <h1 class="banner_taital">Selamat datang di Dealer Motor Poyyzan</h1>
+                     <p class="banner_text">Digital Transformation for the Automotive World</p>
                      <div class="started_text"><a href="#">Read More</a></div>
                      <div class="play_icon"><img src="prefix/images/play-icon.png"></div>
                   </div>
@@ -15,13 +15,13 @@
                      <div id="banner_slider" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
                            <div class="carousel-item active">
-                              <div class="banner_img"><img src="storage/images/a2.jpeg"></div>
+                              <div class="banner_img"><img src="logoku.jpg"></div>
                            </div>
                            <div class="carousel-item">
-                              <div class="banner_img"><img src="storage/images/b.jpeg"></div>
+                              <div class="banner_img"><img src="logoguee.jpg"></div>
                            </div>
                            <div class="carousel-item">
-                              <div class="banner_img"><img src="storage/images/c1.jpeg"></div>
+                              <div class="banner_img"><img src="logogue.jpeg"></div>
                            </div>
                         </div>
                         <a class="carousel-control-prev" href="#banner_slider" role="button" data-slide="prev">

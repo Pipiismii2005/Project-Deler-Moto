@@ -40,14 +40,7 @@
                 >
             </div>
 
-            <div class="mb-3">
-                <label for="role" class="form-label">Role</label>
-                <select class="form-select" id="role" name="role" required>
-                    <option value="">-- Pilih Role --</option>
-                    <option value="pembeli">Pembeli</option>
-                    <option value="penjual">Penjual</option>
-                </select>
-            </div>
+
 
             <div class="mb-3">
                 <label for="password" class="form-label">Password</label>

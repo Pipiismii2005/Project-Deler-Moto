@@ -4,7 +4,7 @@
          <div class="container">
             <div class="row">
                <div class="col-md-12">
-                  <h1 class="blog_taital">Peralatan Olahraga</h1>
+                  <h1 class="blog_taital">Dealer Motor Poyyzan</h1>
                </div>
             </div>
             <div class="blog_section_2">
@@ -13,7 +13,7 @@
                      <div class="carousel-item active">
                         <div class="row">
                            <div class="col-md-4">
-                              <div class="blog_img"><img src="storage/images/Dumbbell.jpeg"></div>
+                              <div class="blog_img"><img src="honda scoopy 110.png"></div>
                               <h6 class="number_text">01</h6>
                               <div class="callnow_btn">
                                  
